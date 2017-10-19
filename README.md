@@ -2,7 +2,7 @@
 
 [DC Team](https://www.cipherchallenge.org/teams/dccompsci/)
 
-| Challenge | Position |
+| **Challenge** | **Position** |
 |:---------:|:---------:|
 | 1 Part A  | 1= |
 | 1 Part B  | 3= |
