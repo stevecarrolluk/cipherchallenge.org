@@ -1,6 +1,4 @@
-# cipherchallenge.org
-
-[DC Team](https://www.cipherchallenge.org/teams/dccompsci/)
+[**DC Team**](https://www.cipherchallenge.org/teams/dccompsci/)
 
 | **Challenge** | **Position** |
 |:---------:|:---------:|
