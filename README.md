@@ -6,6 +6,8 @@
 | 1 Part B  | 3= |
 | 2 Part A  | 1= |
 | 2 Part B  | 5= |
+| 3 Part A  | 1= |
+| 3 Part B  | 1= |
 
 **Competition Schedule**
 
